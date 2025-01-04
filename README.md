@@ -2,7 +2,7 @@
 
 # Chione - Snow Builds Kickstart
 
-In memory are those who struggle to share. This repo is dedicated to them. You've got this!
+Dedicated to those who struggle to share. This repo is dedicated to them. You've got this!
 
 ## Origin
 
